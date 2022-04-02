@@ -1,0 +1,23 @@
+
+{
+    "Allison lunch": {
+        "loc": "Allison Dining Commons",
+        "time_xpath": "/html/body/div[1]/div[2]/main/div/div/div[2]/div[2]/div[1]/div/div[1]/ul/li[2]/a",
+        "menu_id":[0,1,10,16]
+    },
+    "Plex lunch": {
+        "loc": "Foster Walker Plex West",
+        "time_xpath": "/html/body/div[1]/div[2]/main/div/div/div[2]/div[2]/div[1]/div/div[1]/ul/li[1]/a",
+        "menu_id":[0,1,7]
+    },
+    "Allison dinner": {
+        "loc": "Allison Dining Commons",
+        "time_xpath": "/html/body/div[1]/div[2]/main/div/div/div[2]/div[2]/div[1]/div/div[1]/ul/li[3]/a",
+        "menu_id":[0,1,10,16]
+    },
+    "Plex dinner": {
+        "loc": "Foster Walker Plex West",
+        "time_xpath": "/html/body/div[1]/div[2]/main/div/div/div[2]/div[2]/div[1]/div/div[1]/ul/li[2]/a",
+        "menu_id":[0,1,7]
+    }
+}
